@@ -10,4 +10,4 @@ and finally go to "localhost:8080" in your browser.
 
 in-app images: 
 
-![](yukle1.png)
+![](images/yukle1.png)
