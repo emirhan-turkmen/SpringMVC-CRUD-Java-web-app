@@ -7,3 +7,7 @@ First, create the database and connect this database to the application. To do t
 Secondly, open the file named "SpringbootThymeleafCrudWebAppApplication" located in "src/main/java" and run the project by selecting "run as springboot app" while your selector is in the "main" class.
 
 and finally go to "localhost:8080" in your browser.
+
+in-app images: 
+
+![](yukle1.png)
