@@ -10,4 +10,6 @@ and finally go to "localhost:8080" in your browser.
 
 in-app images: 
 
-![](images/yukle1.png height="500")
+![Home Page](images/yukle1.png)
+![Add Screen](images/yukle2.png)
+![Update Screen](images/yukle3.png)
